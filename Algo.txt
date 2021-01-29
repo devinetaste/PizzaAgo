@@ -1,5 +1,7 @@
 1. Decide the pizza place 
+  1a. What pizza company has the best deal.
 2. Decide what type of pizza you want
+  2a. What toppings should go on the pizza
 3. Where would you like to get the pizza
 4. Place your order
   4a. Pay over phone 
